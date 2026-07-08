@@ -64,7 +64,7 @@
 
 Рассчитан месячный retention и построена тепловая карта удержания пользователей.
 
-![Retention](URL_картинки "Retention heatmap")
+![Retention](retention.png "Retention heatmap")
 
 ---
 
